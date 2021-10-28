@@ -3,3 +3,4 @@ kyc
 main acc
 acc name:sri
 age:19
+occupation:studying
