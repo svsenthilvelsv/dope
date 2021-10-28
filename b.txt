@@ -1,3 +1,4 @@
 account number:12346666333
 kyc
 main acc
+acc name:sri
